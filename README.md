@@ -1,4 +1,4 @@
-# Шпаргалка по Cli Linux :ru: :linux: :allthethings:
+# Шпаргалка по Cli Linux :ru: :pill: :blue_book:
 ------
 
 ## Простые команды
