@@ -1,4 +1,4 @@
-# Шпаргалка по Cli Linux :ru: :suspect:
+# Шпаргалка по Cli Linux :ru: :linux: :allthethings:
 ------
 
 ## Простые команды
