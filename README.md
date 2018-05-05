@@ -1,9 +1,8 @@
 # Шпаргалка по Cli Linux :pill:
-------
 
-###[Шпаргалка с сайта ubuntu.ru](http://forum.ubuntu.ru/index.php?topic=14535.15)
+[**Шпаргалка с сайта ubuntu.ru**](http://forum.ubuntu.ru/index.php?topic=14535.15)
 
-###[Кратко о Vim](http://rus-linux.net/MyLDP/BOOKS/Vim/prosto-o-vim.pdf)
+[**Кратко о Vim**](http://rus-linux.net/MyLDP/BOOKS/Vim/prosto-o-vim.pdf)
 
 ## Простые команды
 
